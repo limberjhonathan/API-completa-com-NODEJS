@@ -8,3 +8,9 @@ npx prisma init
 ------------------------------------------
 npx prisma generate
 npx prisma studio
+
+
+--------------frontend--------------------
+npm create vite@latest frontend
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
